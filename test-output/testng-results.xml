@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="18" passed="18" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-08-13T02:07:54 IST" name="Suite" finished-at="2025-08-13T02:09:29 IST" duration-ms="94605">
+    <groups>
+    </groups>
+    <test started-at="2025-08-13T02:07:54 IST" name="Test" finished-at="2025-08-13T02:09:29 IST" duration-ms="94605">
+      <class name="com.bank.testcase.ManagerhomepageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.bank.testcase.ManagerhomepageTest@1f2586d6]" started-at="2025-08-13T02:08:49 IST" name="setup" finished-at="2025-08-13T02:08:53 IST" duration-ms="3279" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="displayaddcustomertest()[pri:1, instance:com.bank.testcase.ManagerhomepageTest@1f2586d6]" started-at="2025-08-13T02:08:53 IST" name="displayaddcustomertest" finished-at="2025-08-13T02:08:53 IST" duration-ms="358" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- displayaddcustomertest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.bank.testcase.ManagerhomepageTest@1f2586d6]" started-at="2025-08-13T02:08:53 IST" name="tearDown" finished-at="2025-08-13T02:08:53 IST" duration-ms="341" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.bank.testcase.ManagerhomepageTest@1f2586d6]" started-at="2025-08-13T02:08:53 IST" name="setup" finished-at="2025-08-13T02:08:57 IST" duration-ms="3311" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="displayopenaccounttest()[pri:2, instance:com.bank.testcase.ManagerhomepageTest@1f2586d6]" started-at="2025-08-13T02:08:57 IST" name="displayopenaccounttest" finished-at="2025-08-13T02:08:57 IST" duration-ms="429" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- displayopenaccounttest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.bank.testcase.ManagerhomepageTest@1f2586d6]" started-at="2025-08-13T02:08:57 IST" name="tearDown" finished-at="2025-08-13T02:08:58 IST" duration-ms="388" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.bank.testcase.ManagerhomepageTest@1f2586d6]" started-at="2025-08-13T02:08:58 IST" name="setup" finished-at="2025-08-13T02:09:02 IST" duration-ms="4194" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="displaycustomertest()[pri:3, instance:com.bank.testcase.ManagerhomepageTest@1f2586d6]" started-at="2025-08-13T02:09:02 IST" name="displaycustomertest" finished-at="2025-08-13T02:09:02 IST" duration-ms="348" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- displaycustomertest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.bank.testcase.ManagerhomepageTest@1f2586d6]" started-at="2025-08-13T02:09:02 IST" name="tearDown" finished-at="2025-08-13T02:09:03 IST" duration-ms="395" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.bank.testcase.ManagerhomepageTest@1f2586d6]" started-at="2025-08-13T02:09:03 IST" name="setup" finished-at="2025-08-13T02:09:07 IST" duration-ms="4013" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="vldclickAddcustbtn()[pri:4, instance:com.bank.testcase.ManagerhomepageTest@1f2586d6]" started-at="2025-08-13T02:09:07 IST" name="vldclickAddcustbtn" finished-at="2025-08-13T02:09:07 IST" duration-ms="399" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- vldclickAddcustbtn -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.bank.testcase.ManagerhomepageTest@1f2586d6]" started-at="2025-08-13T02:09:07 IST" name="tearDown" finished-at="2025-08-13T02:09:07 IST" duration-ms="447" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.bank.testcase.ManagerhomepageTest@1f2586d6]" started-at="2025-08-13T02:09:07 IST" name="setup" finished-at="2025-08-13T02:09:11 IST" duration-ms="3470" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="vldclickopnaccbtn()[pri:5, instance:com.bank.testcase.ManagerhomepageTest@1f2586d6]" started-at="2025-08-13T02:09:11 IST" name="vldclickopnaccbtn" finished-at="2025-08-13T02:09:11 IST" duration-ms="377" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- vldclickopnaccbtn -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.bank.testcase.ManagerhomepageTest@1f2586d6]" started-at="2025-08-13T02:09:11 IST" name="tearDown" finished-at="2025-08-13T02:09:12 IST" duration-ms="386" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.bank.testcase.ManagerhomepageTest@1f2586d6]" started-at="2025-08-13T02:09:12 IST" name="setup" finished-at="2025-08-13T02:09:14 IST" duration-ms="2868" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="vldclickcustbtn()[pri:6, instance:com.bank.testcase.ManagerhomepageTest@1f2586d6]" started-at="2025-08-13T02:09:14 IST" name="vldclickcustbtn" finished-at="2025-08-13T02:09:15 IST" duration-ms="395" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- vldclickcustbtn -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.bank.testcase.ManagerhomepageTest@1f2586d6]" started-at="2025-08-13T02:09:15 IST" name="tearDown" finished-at="2025-08-13T02:09:15 IST" duration-ms="341" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.bank.testcase.ManagerhomepageTest -->
+      <class name="com.bank.testcase.customertest">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:com.bank.testcase.customertest@2f4948e4]" started-at="2025-08-13T02:08:39 IST" name="Setup" finished-at="2025-08-13T02:08:44 IST" duration-ms="4850" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="deletebuttonuitest()[pri:1, instance:com.bank.testcase.customertest@2f4948e4]" started-at="2025-08-13T02:08:44 IST" name="deletebuttonuitest" finished-at="2025-08-13T02:08:44 IST" duration-ms="404" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deletebuttonuitest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.bank.testcase.customertest@2f4948e4]" started-at="2025-08-13T02:08:44 IST" name="tearDown" finished-at="2025-08-13T02:08:45 IST" duration-ms="336" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="Setup()[pri:0, instance:com.bank.testcase.customertest@2f4948e4]" started-at="2025-08-13T02:08:45 IST" name="Setup" finished-at="2025-08-13T02:08:49 IST" duration-ms="4025" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="deletecustomertes()[pri:2, instance:com.bank.testcase.customertest@2f4948e4]" started-at="2025-08-13T02:08:49 IST" name="deletecustomertes" finished-at="2025-08-13T02:08:49 IST" duration-ms="417" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deletecustomertes -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.bank.testcase.customertest@2f4948e4]" started-at="2025-08-13T02:08:49 IST" name="tearDown" finished-at="2025-08-13T02:08:49 IST" duration-ms="347" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.bank.testcase.customertest -->
+      <class name="com.bank.testcase.AddcustomerTest">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:com.bank.testcase.AddcustomerTest@6a78afa0]" started-at="2025-08-13T02:08:10 IST" name="Setup" finished-at="2025-08-13T02:08:15 IST" duration-ms="4681" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="vldfirstNameTest()[pri:1, instance:com.bank.testcase.AddcustomerTest@6a78afa0]" started-at="2025-08-13T02:08:15 IST" name="vldfirstNameTest" finished-at="2025-08-13T02:08:15 IST" duration-ms="341" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- vldfirstNameTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.bank.testcase.AddcustomerTest@6a78afa0]" started-at="2025-08-13T02:08:15 IST" name="tearDown" finished-at="2025-08-13T02:08:16 IST" duration-ms="383" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="Setup()[pri:0, instance:com.bank.testcase.AddcustomerTest@6a78afa0]" started-at="2025-08-13T02:08:16 IST" name="Setup" finished-at="2025-08-13T02:08:19 IST" duration-ms="3722" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="vldlastnameTest()[pri:2, instance:com.bank.testcase.AddcustomerTest@6a78afa0]" started-at="2025-08-13T02:08:19 IST" name="vldlastnameTest" finished-at="2025-08-13T02:08:20 IST" duration-ms="336" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- vldlastnameTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.bank.testcase.AddcustomerTest@6a78afa0]" started-at="2025-08-13T02:08:20 IST" name="tearDown" finished-at="2025-08-13T02:08:20 IST" duration-ms="366" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="Setup()[pri:0, instance:com.bank.testcase.AddcustomerTest@6a78afa0]" started-at="2025-08-13T02:08:20 IST" name="Setup" finished-at="2025-08-13T02:08:24 IST" duration-ms="4226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="vldpincodeTest()[pri:3, instance:com.bank.testcase.AddcustomerTest@6a78afa0]" started-at="2025-08-13T02:08:24 IST" name="vldpincodeTest" finished-at="2025-08-13T02:08:25 IST" duration-ms="336" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- vldpincodeTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.bank.testcase.AddcustomerTest@6a78afa0]" started-at="2025-08-13T02:08:25 IST" name="tearDown" finished-at="2025-08-13T02:08:25 IST" duration-ms="328" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="Setup()[pri:0, instance:com.bank.testcase.AddcustomerTest@6a78afa0]" started-at="2025-08-13T02:08:25 IST" name="Setup" finished-at="2025-08-13T02:08:28 IST" duration-ms="2964" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="vldaddcustTest()[pri:4, instance:com.bank.testcase.AddcustomerTest@6a78afa0]" started-at="2025-08-13T02:08:28 IST" name="vldaddcustTest" finished-at="2025-08-13T02:08:39 IST" duration-ms="10716" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- vldaddcustTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.bank.testcase.AddcustomerTest@6a78afa0]" started-at="2025-08-13T02:08:39 IST" name="tearDown" finished-at="2025-08-13T02:08:39 IST" duration-ms="500" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.bank.testcase.AddcustomerTest -->
+      <class name="com.bank.testcase.LoginPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.bank.testcase.LoginPageTest@7b98f307]" started-at="2025-08-13T02:07:55 IST" name="setUp" finished-at="2025-08-13T02:08:00 IST" duration-ms="5322" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateloginpageTitle()[pri:1, instance:com.bank.testcase.LoginPageTest@7b98f307]" started-at="2025-08-13T02:08:00 IST" name="validateloginpageTitle" finished-at="2025-08-13T02:08:00 IST" duration-ms="28" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateloginpageTitle -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.bank.testcase.LoginPageTest@7b98f307]" started-at="2025-08-13T02:08:00 IST" name="tearDown" finished-at="2025-08-13T02:08:00 IST" duration-ms="363" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.bank.testcase.LoginPageTest@7b98f307]" started-at="2025-08-13T02:08:00 IST" name="setUp" finished-at="2025-08-13T02:08:04 IST" duration-ms="3617" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validatemanloginbutton()[pri:2, instance:com.bank.testcase.LoginPageTest@7b98f307]" started-at="2025-08-13T02:08:04 IST" name="validatemanloginbutton" finished-at="2025-08-13T02:08:05 IST" duration-ms="719" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatemanloginbutton -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.bank.testcase.LoginPageTest@7b98f307]" started-at="2025-08-13T02:08:05 IST" name="tearDown" finished-at="2025-08-13T02:08:05 IST" duration-ms="388" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.bank.testcase.LoginPageTest@7b98f307]" started-at="2025-08-13T02:08:05 IST" name="setUp" finished-at="2025-08-13T02:08:09 IST" duration-ms="4052" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validatedologin()[pri:3, instance:com.bank.testcase.LoginPageTest@7b98f307]" started-at="2025-08-13T02:08:09 IST" name="validatedologin" finished-at="2025-08-13T02:08:10 IST" duration-ms="796" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatedologin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.bank.testcase.LoginPageTest@7b98f307]" started-at="2025-08-13T02:08:10 IST" name="tearDown" finished-at="2025-08-13T02:08:10 IST" duration-ms="353" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.bank.testcase.LoginPageTest -->
+      <class name="com.bank.testcase.opneaccountTest">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:com.bank.testcase.opneaccountTest@10683d9d]" started-at="2025-08-13T02:09:15 IST" name="Setup" finished-at="2025-08-13T02:09:19 IST" duration-ms="3862" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="getuserfeildtest()[pri:1, instance:com.bank.testcase.opneaccountTest@10683d9d]" started-at="2025-08-13T02:09:19 IST" name="getuserfeildtest" finished-at="2025-08-13T02:09:19 IST" duration-ms="340" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getuserfeildtest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.bank.testcase.opneaccountTest@10683d9d]" started-at="2025-08-13T02:09:19 IST" name="tearDown" finished-at="2025-08-13T02:09:20 IST" duration-ms="363" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="Setup()[pri:0, instance:com.bank.testcase.opneaccountTest@10683d9d]" started-at="2025-08-13T02:09:20 IST" name="Setup" finished-at="2025-08-13T02:09:23 IST" duration-ms="3324" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="getcurrency()[pri:2, instance:com.bank.testcase.opneaccountTest@10683d9d]" started-at="2025-08-13T02:09:23 IST" name="getcurrency" finished-at="2025-08-13T02:09:23 IST" duration-ms="298" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getcurrency -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.bank.testcase.opneaccountTest@10683d9d]" started-at="2025-08-13T02:09:23 IST" name="tearDown" finished-at="2025-08-13T02:09:24 IST" duration-ms="335" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="Setup()[pri:0, instance:com.bank.testcase.opneaccountTest@10683d9d]" started-at="2025-08-13T02:09:24 IST" name="Setup" finished-at="2025-08-13T02:09:28 IST" duration-ms="4037" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="openaccounttest()[pri:3, instance:com.bank.testcase.opneaccountTest@10683d9d]" started-at="2025-08-13T02:09:28 IST" name="openaccounttest" finished-at="2025-08-13T02:09:29 IST" duration-ms="910" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openaccounttest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.bank.testcase.opneaccountTest@10683d9d]" started-at="2025-08-13T02:09:29 IST" name="tearDown" finished-at="2025-08-13T02:09:29 IST" duration-ms="377" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.bank.testcase.opneaccountTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

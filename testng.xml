@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.bank.testcase.LoginPageTest"/>
+      <class name="com.bank.testcase.AddcustomerTest"/>
+      <class name="com.bank.testcase.customertest"/>
+      <class name="com.bank.testcase.ManagerhomepageTest"/>
+      <class name="com.bank.testcase.opneaccountTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
