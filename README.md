@@ -1,24 +1,41 @@
 # Globle_Bank_Automation-java-
 A scalable Web UI Automation Framework built using Selenium WebDriver, Java, and TestNG. Designed with the Page Object Model (POM) architecture for maintainability, reusability, and ease of integration with CI/CD pipelines.
 
-# API Automation Framework - Rest Assured + TestNG
+# Selenium Web Application Automation Testing (Java + TestNG)
 
-## 📌 Overview
-This is a Java-based API Automation Framework using **Rest Assured** and **TestNG**.  
-It follows best practices for maintainability, scalability, and reusability.
+## 📌 Project Overview
+This project demonstrates **end-to-end automation testing** of a web application using **Selenium WebDriver** with **Java**.  
+It is built with **best practices** for maintainability, scalability, and reusability, following the **Page Object Model (POM)** design pattern.  
+The project uses **TestNG** for test execution, reporting, and parameterization.
 
-## 🚀 Features
-- Supports **GET, POST, PUT, DELETE** operations
-- **Data-driven testing** with JSON/Excel
-- **Configurable environments** (dev, qa, prod)
-- **Allure & Extent HTML Reports**
-- **Maven** build automation
-- **Reusable utility classes** for request/response handling
+---
+
+## 🛠 Tech Stack
+- **Programming Language**: Java
+- **Automation Tool**: Selenium WebDriver
+- **Test Framework**: TestNG
+- **Design Pattern**: Page Object Model (POM)
+- **Build Tool**: Maven
+- **Reporting**: Extent Reports / Allure Reports
+- **IDE**: IntelliJ IDEA / Eclipse
+- **Version Control**: Git & GitHub
+
+
 
 ## 📂 Project Structure
-AutomationFramework/
-│── .gitignore
-│── README.md
+AutomationFramework
+├── src/main/java
+│ ├── base # Base classes (driver setup, configurations)
+│ ├── pages # Page classes (POM)
+│ ├── utils # Utility classes (helpers, wait, screenshot)
+│
+├── src/test/java
+│ ├── tests # Test classes
+│ ├── testdata # Test data files
+│
+├── testng.xml # TestNG configuration file
+├── pom.xml # Maven dependencies
+└── README.md # Project documentationd
 │── pom.xml
 │── testng.xml
 │
@@ -50,12 +67,25 @@ AutomationFramework/
     └── Framework_Design.png
 
 
+---
+
+## ⚡ Features
+- **Cross-browser testing** (Chrome, Firefox, Edge)
+- **Data-driven testing** using Excel/JSON
+- **Reusable page actions** with POM
+- **Custom wait utilities**
+- **Automatic screenshot capture on failure**
+- **Detailed HTML reporting**
+- **Configurable test execution** via `testng.xml`
+
+---
+
+## 🚀 How to Run the Tests
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/your-username/selenium-java-webautomation.git
 
 
-Addtionls features
 
-Sample Test Cases (e.g., Login, Search, Add to Cart for an e-commerce app.
-Screenshots on Failure (stored in /reports/screenshots)
-Custom Logger (Log4j2)
-Maven profiles for running in different environments (-Pqa, -Pprod)
-CI/CD Pipeline file (e.g., .github/workflows/ci.yml for GitHub Actions)
+
