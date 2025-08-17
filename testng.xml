@@ -3,8 +3,8 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="com.bank.testcase.LoginPageTest"/>
       <class name="com.bank.testcase.AddcustomerTest"/>
+      <class name="com.bank.testcase.LoginPageTest"/>
       <class name="com.bank.testcase.customertest"/>
       <class name="com.bank.testcase.ManagerhomepageTest"/>
       <class name="com.bank.testcase.opneaccountTest"/>

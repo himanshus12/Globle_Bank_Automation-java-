@@ -1,43 +1,80 @@
 package com.bank.basetest;
-
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.IOException;
 import java.time.Duration;
-
-import org.openqa.selenium.By;
+import java.util.Properties;
+import java.util.concurrent.TimeUnit;
+import org.apache.logging.log4j.Logger;
+import org.apache.logging.log4j.LogManager;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
-import org.openqa.selenium.safari.SafariDriver;
+
 
 public class BaseTest {
+	
+	
 
 	
-	public static  WebDriver driver;
+	
+	public static WebDriver driver;
+	public static Properties prop;
+	
+
+	//public  static EventFiringWebDriver e_driver;
+	//public static WebEventListener eventListener;
 	
 	
-	public static void intilization() 
-	{
-	//	String browser = prop.getProperty("chrome");
-		String browser = "chrome";
-		if (browser  == "chrome") {
-			driver = new ChromeDriver();
+	
+	
+	public BaseTest(){
+		try {
+			prop = new Properties();
+			FileInputStream ip = new FileInputStream(System.getProperty("user.dir")+ "/src/main/java/com/bank/confiug/config.properties");
+			prop.load(ip);
+		} catch (FileNotFoundException e) {
+			e.printStackTrace();
+		} catch (IOException e) {
+			e.printStackTrace();
 		}
-		else if (browser == "Edge") {
-			driver = new EdgeDriver();
+	}
+	
+	
+	public static void intilization(){
+		String browserName = prop.getProperty("browser");
+		
+		if(browserName.equals("chrome")){
+			
+			driver = new ChromeDriver(); 
 		}
-		else if (browser == "Firefox" ) {
-			driver = new FirefoxDriver();
+		else if(browserName.equals("FF")){
+			
+			driver = new FirefoxDriver(); 
 		}
-		else if (browser == "Safari") {
-			driver = new SafariDriver();
-		}
-		else {
-			System.out.println("Given browser is not avliable");
-		}
+		
+		/*
+		e_driver = new EventFiringWebDriver(driver);
+		// Now create object of EventListerHandler to register it with EventFiringWebDriver
+		eventListener = new WebEventListener();
+		e_driver.register(eventListener);
+		driver = e_driver;
+		*/
 		driver.manage().window().maximize();
 		driver.manage().deleteAllCookies();
-		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(5));
 		driver.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(5));
-		driver.get("https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login");	
-}
+		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(5));
+		
+		driver.get(prop.getProperty("url"));
+		
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+
 }
