@@ -1,0 +1,133 @@
+2025-08-19 01:42:36.878 [main] INFO  Utils.info - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-08-19 01:42:36.893 [main] INFO  Utils.info - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-08-19 01:42:36.902 [main] INFO  Utils.info - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-08-19 01:42:36.903 [main] INFO  Utils.info - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-08-19 01:42:36.906 [main] INFO  Utils.info - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-08-19 01:42:36.907 [main] INFO  Utils.info - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-08-19 01:42:36.909 [main] INFO  Utils.info - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-08-19 01:42:36.910 [main] INFO  Utils.info - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-08-19 01:42:36.919 [main] INFO  Utils.info - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-08-19 01:42:36.920 [main] INFO  Utils.info - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-08-19 01:42:36.921 [main] INFO  Utils.info - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-08-19 01:42:36.922 [main] INFO  Utils.info - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-08-19 01:42:36.923 [main] INFO  Utils.info - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-08-19 01:42:36.924 [main] INFO  Utils.info - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-08-19 01:42:36.927 [main] INFO  Utils.info - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-08-19 01:42:36.929 [main] INFO  Utils.info - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-08-19 01:42:36.960 [main] INFO  Utils.info - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 21 ms.
+2025-08-19 01:42:36.997 [main] INFO  Utils.info - [Utils] MethodGroupsHelper.sortMethods() took 27 ms.
+2025-08-19 01:42:37.004 [main] INFO  Utils.info - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-08-19 01:42:37.005 [main] INFO  Utils.info - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-08-19 01:42:37.014 [main] INFO  Utils.info - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-08-19 01:42:37.015 [main] INFO  Utils.info - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-08-19 01:42:37.017 [main] INFO  Utils.info - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-08-19 01:42:37.019 [main] INFO  Utils.info - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-08-19 01:42:37.023 [main] INFO  Utils.info - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-08-19 01:42:37.036 [main] INFO  Utils.info - [Utils] MethodGroupsHelper.sortMethods() took 13 ms.
+2025-08-19 01:42:37.039 [main] INFO  Utils.info - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-08-19 01:42:37.040 [main] INFO  Utils.info - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-08-19 01:42:37.040 [main] INFO  Utils.info - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-08-19 01:42:37.042 [main] INFO  Utils.info - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-08-19 01:42:37.060 [main] INFO  Utils.info - [TestNG] Running:
+  C:\Users\dell\AppData\Local\Temp\testng-eclipse-1449598579\testng-customsuite.xml
+
+2025-08-19 01:42:37.111 [main] INFO  Utils.info - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+2025-08-19 01:42:37.175 [main] INFO  BaseTest.intilization - Browser is satrk invokeing
+2025-08-19 01:42:45.364 [main] INFO  BaseTest.intilization - Browser is  invokeed sucessfully
+2025-08-19 01:42:45.376 [main] INFO  LoginPageTest.setUp - Application_setup Sucessfully
+2025-08-19 01:42:45.418 [main] INFO  LoginPageTest.validateloginpageTitle - validateloginpageTitle Test case is title os matcheeed 
+2025-08-19 01:42:46.034 [main] INFO  BaseTest.intilization - Browser is satrk invokeing
+2025-08-19 01:42:49.334 [main] INFO  BaseTest.intilization - Browser is  invokeed sucessfully
+2025-08-19 01:42:49.336 [main] INFO  LoginPageTest.setUp - Application_setup Sucessfully
+2025-08-19 01:42:50.787 [main] INFO  BaseTest.intilization - Browser is satrk invokeing
+2025-08-19 01:42:53.406 [main] INFO  BaseTest.intilization - Browser is  invokeed sucessfully
+2025-08-19 01:42:53.409 [main] INFO  LoginPageTest.setUp - Application_setup Sucessfully
+2025-08-19 01:42:55.023 [main] INFO  Utils.info - [TestNG] Time taken by org.testng.reporters.jq.Main@23811a09: 110 ms
+2025-08-19 01:42:55.026 [main] INFO  Utils.info - [TestNG] Time taken by org.testng.reporters.FailedReporter@f4c0e4e: 2 ms
+2025-08-19 01:42:55.057 [main] INFO  Utils.info - [TestNG] Time taken by org.testng.reporters.XMLReporter@26a2f7f9: 31 ms
+2025-08-19 01:42:55.070 [main] INFO  Utils.info - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@6f38a289: 12 ms
+2025-08-19 01:42:55.083 [main] INFO  Utils.info - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@72e789cb: 11 ms
+2025-08-19 01:42:55.083 [main] INFO  Utils.info - [TestNG] Time taken by org.testng.internal.ExitCodeListener@7c1812b3: 0 ms
+2025-08-19 02:21:21.455 [main] INFO  Utils.info - [TestNG] Running:
+  C:\Users\dell\eclipse-workspace\Globle_Bank_Automation-java-\testng.xml
+
+2025-08-19 02:21:21.496 [main] INFO  myListners.onStart - ==== Test Suite Started: Test ====
+2025-08-19 02:21:21.826 [main] INFO  myListners.onStart - Extent Report initialized.
+2025-08-19 02:21:21.875 [main] INFO  BaseTest.intilization - Browser is satrk invokeing
+2025-08-19 02:21:27.555 [main] INFO  BaseTest.intilization - Browser is  invokeed sucessfully
+2025-08-19 02:21:29.136 [main] INFO  myListners.onTestStart - 🟢 Test Started: vldfirstNameTest
+2025-08-19 02:21:30.168 [main] INFO  myListners.onTestSuccess - ✅ Test Passed: vldfirstNameTest
+2025-08-19 02:21:30.938 [main] INFO  BaseTest.intilization - Browser is satrk invokeing
+2025-08-19 02:21:34.375 [main] INFO  BaseTest.intilization - Browser is  invokeed sucessfully
+2025-08-19 02:21:35.883 [main] INFO  myListners.onTestStart - 🟢 Test Started: vldlastnameTest
+2025-08-19 02:21:36.308 [main] INFO  myListners.onTestSuccess - ✅ Test Passed: vldlastnameTest
+2025-08-19 02:21:36.800 [main] INFO  BaseTest.intilization - Browser is satrk invokeing
+2025-08-19 02:21:39.772 [main] INFO  BaseTest.intilization - Browser is  invokeed sucessfully
+2025-08-19 02:21:41.178 [main] INFO  myListners.onTestStart - 🟢 Test Started: vldpincodeTest
+2025-08-19 02:21:41.671 [main] INFO  myListners.onTestSuccess - ✅ Test Passed: vldpincodeTest
+2025-08-19 02:21:42.148 [main] INFO  BaseTest.intilization - Browser is satrk invokeing
+2025-08-19 02:21:44.823 [main] INFO  BaseTest.intilization - Browser is  invokeed sucessfully
+2025-08-19 02:21:46.149 [main] INFO  myListners.onTestStart - 🟢 Test Started: vldaddcustTest
+2025-08-19 02:21:56.868 [main] INFO  myListners.onTestSuccess - ✅ Test Passed: vldaddcustTest
+2025-08-19 02:21:57.465 [main] INFO  BaseTest.intilization - Browser is satrk invokeing
+2025-08-19 02:21:59.905 [main] INFO  BaseTest.intilization - Browser is  invokeed sucessfully
+2025-08-19 02:21:59.907 [main] INFO  LoginPageTest.setUp - Application_setup Sucessfully
+2025-08-19 02:21:59.920 [main] INFO  myListners.onTestStart - 🟢 Test Started: validateloginpageTitle
+2025-08-19 02:22:00.264 [main] INFO  LoginPageTest.validateloginpageTitle - validateloginpageTitle Test case is title os matcheeed 
+2025-08-19 02:22:00.266 [main] INFO  myListners.onTestSuccess - ✅ Test Passed: validateloginpageTitle
+2025-08-19 02:22:00.904 [main] INFO  BaseTest.intilization - Browser is satrk invokeing
+2025-08-19 02:22:04.990 [main] INFO  BaseTest.intilization - Browser is  invokeed sucessfully
+2025-08-19 02:22:04.998 [main] INFO  LoginPageTest.setUp - Application_setup Sucessfully
+2025-08-19 02:22:05.002 [main] INFO  myListners.onTestStart - 🟢 Test Started: validatemanloginbutton
+2025-08-19 02:22:05.714 [main] INFO  myListners.onTestSuccess - ✅ Test Passed: validatemanloginbutton
+2025-08-19 02:22:06.259 [main] INFO  BaseTest.intilization - Browser is satrk invokeing
+2025-08-19 02:22:09.155 [main] INFO  BaseTest.intilization - Browser is  invokeed sucessfully
+2025-08-19 02:22:09.159 [main] INFO  LoginPageTest.setUp - Application_setup Sucessfully
+2025-08-19 02:22:09.164 [main] INFO  myListners.onTestStart - 🟢 Test Started: validatedologin
+2025-08-19 02:22:10.209 [main] INFO  myListners.onTestSuccess - ✅ Test Passed: validatedologin
+2025-08-19 02:22:10.685 [main] INFO  BaseTest.intilization - Browser is satrk invokeing
+2025-08-19 02:22:13.037 [main] INFO  BaseTest.intilization - Browser is  invokeed sucessfully
+2025-08-19 02:22:15.090 [main] INFO  myListners.onTestStart - 🟢 Test Started: deletebuttonuitest
+2025-08-19 02:22:15.623 [main] INFO  myListners.onTestSuccess - ✅ Test Passed: deletebuttonuitest
+2025-08-19 02:22:16.123 [main] INFO  BaseTest.intilization - Browser is satrk invokeing
+2025-08-19 02:22:18.775 [main] INFO  BaseTest.intilization - Browser is  invokeed sucessfully
+2025-08-19 02:22:20.246 [main] INFO  myListners.onTestStart - 🟢 Test Started: deletecustomertes
+2025-08-19 02:22:20.732 [main] INFO  myListners.onTestSuccess - ✅ Test Passed: deletecustomertes
+2025-08-19 02:22:21.246 [main] INFO  BaseTest.intilization - Browser is satrk invokeing
+2025-08-19 02:22:23.558 [main] INFO  BaseTest.intilization - Browser is  invokeed sucessfully
+2025-08-19 02:22:24.842 [main] INFO  myListners.onTestStart - 🟢 Test Started: displayaddcustomertest
+2025-08-19 02:22:25.237 [main] INFO  myListners.onTestSuccess - ✅ Test Passed: displayaddcustomertest
+2025-08-19 02:22:25.825 [main] INFO  BaseTest.intilization - Browser is satrk invokeing
+2025-08-19 02:22:28.793 [main] INFO  BaseTest.intilization - Browser is  invokeed sucessfully
+2025-08-19 02:22:29.740 [main] INFO  myListners.onTestStart - 🟢 Test Started: displayopenaccounttest
+2025-08-19 02:22:30.221 [main] INFO  myListners.onTestSuccess - ✅ Test Passed: displayopenaccounttest
+2025-08-19 02:22:30.746 [main] INFO  BaseTest.intilization - Browser is satrk invokeing
+2025-08-19 02:22:33.682 [main] INFO  BaseTest.intilization - Browser is  invokeed sucessfully
+2025-08-19 02:22:34.794 [main] INFO  myListners.onTestStart - 🟢 Test Started: displaycustomertest
+2025-08-19 02:22:35.319 [main] INFO  myListners.onTestSuccess - ✅ Test Passed: displaycustomertest
+2025-08-19 02:22:35.874 [main] INFO  BaseTest.intilization - Browser is satrk invokeing
+2025-08-19 02:22:38.329 [main] INFO  BaseTest.intilization - Browser is  invokeed sucessfully
+2025-08-19 02:22:39.741 [main] INFO  myListners.onTestStart - 🟢 Test Started: vldclickAddcustbtn
+2025-08-19 02:22:40.443 [main] INFO  myListners.onTestSuccess - ✅ Test Passed: vldclickAddcustbtn
+2025-08-19 02:22:41.011 [main] INFO  BaseTest.intilization - Browser is satrk invokeing
+2025-08-19 02:22:43.791 [main] INFO  BaseTest.intilization - Browser is  invokeed sucessfully
+2025-08-19 02:22:44.646 [main] INFO  myListners.onTestStart - 🟢 Test Started: vldclickopnaccbtn
+2025-08-19 02:22:45.161 [main] INFO  myListners.onTestSuccess - ✅ Test Passed: vldclickopnaccbtn
+2025-08-19 02:22:45.679 [main] INFO  BaseTest.intilization - Browser is satrk invokeing
+2025-08-19 02:22:47.697 [main] INFO  BaseTest.intilization - Browser is  invokeed sucessfully
+2025-08-19 02:22:48.709 [main] INFO  myListners.onTestStart - 🟢 Test Started: vldclickcustbtn
+2025-08-19 02:22:49.239 [main] INFO  myListners.onTestSuccess - ✅ Test Passed: vldclickcustbtn
+2025-08-19 02:22:49.704 [main] INFO  BaseTest.intilization - Browser is satrk invokeing
+2025-08-19 02:22:51.958 [main] INFO  BaseTest.intilization - Browser is  invokeed sucessfully
+2025-08-19 02:22:53.624 [main] INFO  myListners.onTestStart - 🟢 Test Started: getuserfeildtest
+2025-08-19 02:22:54.038 [main] INFO  myListners.onTestSuccess - ✅ Test Passed: getuserfeildtest
+2025-08-19 02:22:54.633 [main] INFO  BaseTest.intilization - Browser is satrk invokeing
+2025-08-19 02:22:56.836 [main] INFO  BaseTest.intilization - Browser is  invokeed sucessfully
+2025-08-19 02:22:58.721 [main] INFO  myListners.onTestStart - 🟢 Test Started: getcurrency
+2025-08-19 02:22:59.190 [main] INFO  myListners.onTestSuccess - ✅ Test Passed: getcurrency
+2025-08-19 02:22:59.737 [main] INFO  BaseTest.intilization - Browser is satrk invokeing
+2025-08-19 02:23:01.439 [main] INFO  BaseTest.intilization - Browser is  invokeed sucessfully
+2025-08-19 02:23:03.170 [main] INFO  myListners.onTestStart - 🟢 Test Started: openaccounttest
+2025-08-19 02:23:04.360 [main] INFO  myListners.onTestSuccess - ✅ Test Passed: openaccounttest
+2025-08-19 02:23:05.058 [main] INFO  myListners.onFinish - ==== Test Suite Finished: Test ====
+2025-08-19 02:23:05.485 [main] INFO  myListners.onFinish - Extent Report flushed successfully.

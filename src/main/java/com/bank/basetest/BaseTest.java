@@ -14,7 +14,8 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 
 public class BaseTest {
 	
-	
+	 private static final Logger logger = LogManager.getLogger(BaseTest.class);
+
 
 	
 	
@@ -42,6 +43,7 @@ public class BaseTest {
 	
 	
 	public static void intilization(){
+		logger.info("Browser is satrk invokeing");
 		String browserName = prop.getProperty("browser");
 		
 		if(browserName.equals("chrome")){
@@ -66,7 +68,7 @@ public class BaseTest {
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(5));
 		
 		driver.get(prop.getProperty("url"));
-		
+		logger.info("Browser is  invokeed sucessfully");
 	}
 	
 	

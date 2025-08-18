@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN" monitorInterval="30">
+
+<properties>
+<Property name="basePath">./logs</Property>
+</properties>
+
+  <!-- Appenders -->
+  <Appenders>
+    <!-- Console appender -->
+    <Console name="Console" target="SYSTEM_OUT">
+      <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss.SSS} [%t] %-5level %c{1} - %msg%n"/>
+    </Console>
+
+    <!-- Rolling file appender -->
+    <RollingFile name="File"
+                 fileName="logs/app.log"
+                 filePattern="logs/app-%d{yyyy-MM-dd}-%i.log.gz">
+      <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss.SSS} [%t] %-5level %c{1}.%M - %msg%n"/>
+      <Policies>
+        <!-- rollover on size -->
+        <SizeBasedTriggeringPolicy size="10MB"/>
+        <!-- rollover daily as well -->
+        <TimeBasedTriggeringPolicy />
+      </Policies>
+      <DefaultRolloverStrategy max="10"/>
+    </RollingFile>
+  </Appenders>
+
+  <!-- Loggers -->
+  <Loggers>
+    <!-- package-specific logger -->
+    <Logger name="com.mycompany.myapp" level="debug" additivity="false">
+      <AppenderRef ref="Console"/>
+      <AppenderRef ref="File"/>
+    </Logger>
+
+    <!-- Root logger -->
+    <Root level="info">
+      <AppenderRef ref="Console"/>
+      <AppenderRef ref="File"/>
+    </Root>
+  </Loggers>
+</Configuration>
